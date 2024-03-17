@@ -34,6 +34,6 @@ This budget planner app is developed by Milind Bhushan.
 
 For any inquiries or issues, feel free to contact the developer.
 
-###UI
+#### UI:
 ![screengrab](https://github.com/DevMaverickMB/Budget_Planner/assets/84549389/b00b942c-7dcd-4cbc-9d24-6d73657a7776)
 
